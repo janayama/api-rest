@@ -32,6 +32,9 @@ gem "devise", "~> 3.2"
 # API Framework
 gem "grape", "~> 0.6.0"
 
+# OAuth 2 Authorization Server
+gem "doorkeeper", "~> 0.7.3"
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
