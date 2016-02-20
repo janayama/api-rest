@@ -29,6 +29,9 @@ gem "settingslogic", "~> 2.0.9"
 # User System
 gem "devise", "~> 3.2"
 
+# API Framework
+gem "grape", "~> 0.6.0"
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
