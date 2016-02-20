@@ -1,6 +1,6 @@
 module V1
-  class restAPI < Base
-    namespace "restapi"
+  class RestAPI < Base
+    namespace "rest"
 
   end
 end
