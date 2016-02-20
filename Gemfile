@@ -26,6 +26,9 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Configuration Manager
 gem "settingslogic", "~> 2.0.9"
 
+# User System
+gem "devise", "~> 3.1.1"
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
